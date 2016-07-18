@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -28,27 +27,6 @@
          offset="0"
          id="stop4340" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4330">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4332" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop4334" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4330"
-       id="linearGradient4336"
-       x1="139.98102"
-       y1="426.14537"
-       x2="626.83593"
-       y2="426.14537"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,11 +35,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71131268"
-     inkscape:cx="1.0993558"
-     inkscape:cy="509.6253"
+     inkscape:zoom="0.50297402"
+     inkscape:cx="272.17486"
+     inkscape:cy="487.32191"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3505"
      showgrid="false"
      showguides="true"
      inkscape:window-width="1440"
@@ -133,38 +111,72 @@
     <rect
        style="fill:#f6e32a;fill-opacity:1"
        id="rect4251"
-       width="523.71198"
-       height="800.9201"
-       x="34.691269"
-       y="127.69067"
-       ry="25.483658" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:237.80316162px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa7403;fill-opacity:1;stroke:url(#linearGradient4336);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="131.22887"
-       y="450.74719"
-       id="text4277"
-       sodipodi:linespacing="125%"
-       transform="scale(0.85362324,1.171477)"><title
-         id="title4328"
-         style="stroke:url(#linearGradient4336)">Blog</title><tspan
-         sodipodi:role="line"
-         id="tspan4279"
-         x="131.22887"
-         y="450.74719"
-         style="font-size:89.17617798px;fill:#fa7403;fill-opacity:1;stroke:#000000;stroke-opacity:1;opacity:0.5">Bistrill Blog</tspan></text>
+       width="491.06201"
+       height="743.26306"
+       x="105.63638"
+       y="149.56059"
+       ry="23.64913" />
     <rect
        style="fill:#f9f9f9;fill-opacity:1"
        id="rect4285"
-       width="30.257324"
-       height="719.20544"
-       x="72.588951"
-       y="171.47929"
-       ry="19.112743" />
+       width="28.370981"
+       height="667.43097"
+       x="141.1714"
+       y="190.19696"
+       ry="17.736845" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#aa8800"
-       d="m 558.30832,214.84499 0,55.24695 a 99.553251,262.50558 0 0 1 0.44478,-0.04 99.553251,262.50558 0 0 1 99.55325,262.50558 99.553251,262.50558 0 0 1 -99.55325,262.50558 99.553251,262.50558 0 0 1 -0.44478,-0.0568 l 0,57.35472 a 135.99685,318.75676 0 0 0 117.77713,-159.38327 135.99685,318.75676 0 0 0 0,-318.75515 135.99685,318.75676 0 0 0 -117.77713,-159.37758 z"
+       d="m 596.60941,230.44082 0,51.2698 a 93.34677,243.6082 0 0 1 0.41705,-0.0371 93.34677,243.6082 0 0 1 93.34678,243.60822 93.34677,243.6082 0 0 1 -93.34678,243.6082 93.34677,243.6082 0 0 1 -0.41705,-0.0527 l 0,53.22585 a 127.51836,295.80995 0 0 0 110.43452,-147.90951 127.51836,295.80995 0 0 0 0,-295.80846 127.51836,295.80995 0 0 0 -110.43452,-147.90423 z"
        id="path3563" />
+    <g
+       transform="matrix(1.2307106,0,0,1.3406948,-107.35219,-103.18353)"
+       id="g3505">
+      <rect
+         y="458.07239"
+         x="151.16827"
+         height="90.106133"
+         width="444.73227"
+         id="rect4186"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4230"
+         d="m 156.03617,453.77279 20,-10 0,10 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4234"
+         d="m 591.03617,453.77279 -20,-10 0,10 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4269"
+         d="m 175.85611,439.30589 -70,0 10,45 -10,45 40.66014,-0.20304 -0.40608,-74.39088 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4269-3"
+         d="m 570.83882,438.60235 70,0 -10,45 10,45 -40.66014,-0.20304 0.40608,-74.39088 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4317"
+         y="520.2113"
+         x="174.90096"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:55px;fill:#ffffff;fill-opacity:1"
+           y="520.2113"
+           x="174.90096"
+           id="tspan4319"
+           sodipodi:role="line">&lt;Bistrill Blog&gt;</tspan><tspan
+           id="tspan4321"
+           y="588.9613"
+           x="174.90096"
+           sodipodi:role="line" /></text>
+    </g>
   </g>
 </svg>
