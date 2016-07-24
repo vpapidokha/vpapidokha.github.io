@@ -147,7 +147,7 @@ main::after{
 }
 
 .profile{
-	float: left;
+	display:inline-block;
 	width: 51%;
 	min-height: 100px;
 	padding: 2%;
