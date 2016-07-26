@@ -132,7 +132,7 @@ main::after{
 }
 
 .about-me{
-	min-height: 350px;
+	min-height: 200px;
 	margin: 0 20px;
 	padding: 10px;
 	background-color: rgba(241, 196, 15, 0.1);
