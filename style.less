@@ -1,0 +1,88 @@
+/* Блок змінних */
+
+@line: 20px;
+
+/* Блок оголошення шрифту */
+
+@font-face{
+	font-family: "Roboto";
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/Roboto-Regular.eot');
+	src: local('Roboto Regular'), local('Roboto-Regular'),
+		url('fonts/Roboto-Regular.eot?#iefix') format('embeded-opentype'),
+		url('fonts/Roboto-Regular.woff') format('woff'),
+		url('fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: "Roboto";
+	font-weight:bold;
+	font-style: normal;
+	src: url('fonts/Roboto-Bold.eot');
+	src: local('Roboto Bold'), local('Roboto-Bold'),
+		url('fonts/Roboto-Bold.eot?#iefix') format('embeded-opentype'),
+		url('fonts/Roboto-Bold.woff') format('woff'),
+		url('fonts/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: "Roboto";
+	font-weight: normal;
+	font-style: italic;
+	src: url('fonts/Roboto-Italic.eot');
+	src: local('Roboto Italic'), local('Roboto-Italic'),
+		url('fonts/Roboto-Italic.eot?#iefix') format('embeded-opentype'),
+		url('fonts/Roboto-Italic.woff') format('woff'),
+		url('fonts/Roboto-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: "Roboto";
+	font-weight: bold;
+	font-style: italic;
+	src: url('fonts/Roboto-BoldItalic.eot');
+	src: local('Roboto BoldItalic'), local('Roboto-BoldItalic'),
+		url('fonts/Roboto-BoldItalic.eot?#iefix') format('embeded-opentype'),
+		url('fonts/Roboto-BoldItalic.woff') format('woff'),
+		url('fonts/Roboto-BoldItalic.ttf') format('truetype');
+}
+
+/* Блок домішок */
+
+.set-font(@font-size;@line-height:@line) {
+	font-size: @font-size;
+	line-height: @line-height;
+}
+
+.set-margin(@margin-top:@line;@magin-bottom:@line) {
+	margin-top: @margin-top;
+	margin-bottom: @margin-bottom;
+}
+
+/* Основа */
+
+body {
+	font-family: "Roboto", sans-serif; 
+	.set-font(@line*0.6);
+}
+
+h1 {
+	.set-font(@line * 2; @line * 3);
+	.set-margin();
+}
+h2 {
+	.set-font(@line*1.5, @line*2);
+	.set-margin();
+}
+
+h3 {
+	.set-font(@line*1.2; @line*2);
+	.set-margin();
+}
+
+/* Header */
+
+/* Main */
+
+/* Footer */
