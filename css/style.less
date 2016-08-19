@@ -1,6 +1,6 @@
 /* Блок змінних */
 
-@line: 20px;
+@line: 16px;
 @base-color: #2c3e50;
 @link-color: #191970;
 
@@ -84,6 +84,19 @@ h3 {
 	.set-margin();
 }
 
+p {
+		.set-font(@line * 0.8);
+}
+
+ul {
+		.set-margin();
+}
+
+li {
+		.set-font(@line*0.8);
+		.set-margin(@line/2;@line/2);
+}
+
 a {
 	text-decoration: none;
 }
@@ -115,7 +128,7 @@ a:active {
 	background-position: 10px 0, 10px 0, 0 0, 0 0;
 	background-size: 20px 20px;
 	box-shadow: 0 3px 5px 0 #333333;
-	padding: 20px
+	padding: 20px;
 }
 
 .logo {
@@ -125,14 +138,15 @@ a:active {
 
 .hor-level-menu {
 	list-style: none;
+	margin: 0;
 	margin-left: 150px;
-	font-size: 0.8 * @line;
 }
 
 .hor-level-menu > li {
 	position: relative;
 	display: inline-block;
 	margin-right: 1em;
+	font-size: @line;
 }
 
 .hor-level-menu a {
